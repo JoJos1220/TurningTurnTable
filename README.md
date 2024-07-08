@@ -198,7 +198,7 @@ Well, I like coffee ;) Maybe we got a deal?
 [vscode-dev-shield]: https://img.shields.io/badge/preview%20in-vscode.dev-blue
 [vscode-dev-url]: https://open.vscode.dev/JoJos1220/TurningTurnTable
 
-[license-url]:https://img.shields.io/github/license/Jojos1220/TurningTurnTable?style=flat-square
+[license-url]:https://img.shields.io/github/license/JoJos1220/TurningTurnTable?style=flat-square
 [build-shield]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml/badge.svg
 [build-url]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml
 [contributors-shield]: https://img.shields.io/github/contributors/JoJos1220/TurningTurnTable
