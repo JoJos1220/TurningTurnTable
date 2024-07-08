@@ -201,8 +201,8 @@ Well, I like coffee ;) Maybe we got a deal?
 [license-url]:https://img.shields.io/github/license/Jojos1220/TurningTurnTable?style=flat-square
 [build-shield]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml/badge.svg
 [build-url]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml
-[contributors-shield]: https://img.shields.io/github/contributors/JoJo1220/TurningTurnTable
-[contributors-url]: https://github.com/JoJo1220/TurningTurnTable/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/JoJos1220/TurningTurnTable
+[contributors-url]: https://github.com/JoJos1220/TurningTurnTable/graphs/contributors
 [realease-shield]: https://img.shields.io/github/release/JoJos1220/TurningTurnTable.svg?style=plastic
 [release-url]: https://github.com/JoJos1220/TurningTurnTable/releases/latest
 [releasedate-shield]: https://img.shields.io/github/release-date/JoJos1220/TurningTurnTable.svg?style=plastic
