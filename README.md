@@ -199,8 +199,8 @@ Well, I like coffee ;) Maybe we got a deal?
 [vscode-dev-url]: https://open.vscode.dev/JoJos1220/TurningTurnTable
 
 [license-url]:https://img.shields.io/github/license/Jojos1220/TurningTurnTable?style=flat-square
-[build-shield]: https://github.com/JoJos1220/TurningTurnTable_private/actions/workflows/workflow.yml/badge.svg
-[build-url]: https://github.com/JoJos1220/TurningTurnTable_private/actions/workflows/workflow.yml
+[build-shield]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml/badge.svg
+[build-url]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml
 [contributors-shield]: https://img.shields.io/github/contributors/JoJo1220/TurningTurnTable
 [contributors-url]: https://github.com/JoJo1220/TurningTurnTable/graphs/contributors
 [realease-shield]: https://img.shields.io/github/release/JoJos1220/TurningTurnTable.svg?style=plastic
@@ -210,9 +210,9 @@ Well, I like coffee ;) Maybe we got a deal?
 [lastcommit-shield]: https://img.shields.io/github/last-commit/JoJos1220/TurningTurnTable?style=plastic
 [lastcommit-url]: https://github.com/JoJos1220/TurningTurnTable/tree
 [depandbot-shield]: https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white
-[depandbot-url]:https://github.com/JoJos1220/TurningTurnTable_private/actions/workflows/dependabot.yml
+[depandbot-url]:https://github.com/JoJos1220/TurningTurnTable/actions/workflows/dependabot.yml
 [githubactions-shield]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-[githubactions-url]:https://github.com/JoJos1220/TurningTurnTable_private/actions
+[githubactions-url]:https://github.com/JoJos1220/TurningTurnTable/actions
 [paypal-shield]: https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
 [paypal-url]: https://www.paypal.com/donate/?hosted_button_id=8CTAKMUENCF46
 [Ko-Fi-shield]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
