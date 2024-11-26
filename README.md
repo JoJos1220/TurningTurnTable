@@ -149,6 +149,7 @@ Everybody is welcome to contribute the project - regardless of the experience le
 
 Creative Commons Attribution Share Alike 4.0
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d2d80b428be84e208883a9860ada9f6a)](https://app.codacy.com/gh/JoJos1220/TurningTurnTable?utm_source=github.com&utm_medium=referral&utm_content=JoJos1220/TurningTurnTable&utm_campaign=Badge_Grade)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 See also [LICENSE](LICENSE.md) for more information about license rights and limitations.
