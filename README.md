@@ -8,6 +8,7 @@
 	<b>Figure 1: Overview of the functional turning assembly with happy jellyfish</b>
 </div>
 
+[![Codacy Badge][codacy-shield]][codacy-url]
 [![PlatformIO CI][build-shield]][build-url]
 ![License][license-url]
 [![Release Version][realease-shield]][release-url]
@@ -199,6 +200,8 @@ Well, I like coffee ;) Maybe we got a deal?
 [vscode-dev-url]: https://open.vscode.dev/JoJos1220/TurningTurnTable
 
 [license-url]:https://img.shields.io/github/license/JoJos1220/TurningTurnTable?style=flat-square
+[codacy-shield]: https://app.codacy.com/project/badge/Grade/6d7d1f912c0549589f19d4fdf015cab0
+[codacy-url]:https://app.codacy.com/gh/JoJos1220/TurningTurnTable/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
 [build-shield]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml/badge.svg
 [build-url]: https://github.com/JoJos1220/TurningTurnTable/actions/workflows/workflow.yml
 [contributors-shield]: https://img.shields.io/github/contributors/JoJos1220/TurningTurnTable
