@@ -196,8 +196,9 @@ Well, I like coffee ;) Maybe we got a deal?
 [github-url]: https://github.com/JoJos1220/TurningTurnTable
 [cults3d-shield]: https://img.shields.io/badge/cults3D-JOJO__1220-pink.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH6AcIBTkVJMVsCgAAAkxJREFUOI2llD9oU1EUxr97X9KkIY0+bU1an2QwVLCQdKhU8E9FBefgYKFUHBzSwUmqoxBwEaFDh2QpdBAcpFksSlsEU8Q6RMQ/TUtIwJS2aVPS1sYkTV/ePQ7PJn1JFcRvu/ee+7vnfPfcy4iI8J8y/W2xXCDks4TyT8DhZGg5wf4NEg2rmA2pcLgY7K0MPzIEWWG4+cQCh6sORofo4wuVQv4SfXtdMcx/iqgU9BYom9QM8w2Q+akKhfylhsB9fXim0si1omGd15exMFNBt98EczNDcbvR894BE9q7OFLvxZ89Wf4sEJ/WMPNUHzvPcNx4YIa7R6rGyCcZVr5o1e2GTCaGy5BPMdwZt+L+22YEIlZYWw43fjUuEA2rxkwmhsvYSBECEWs10CYz9I9akIkLA2BrhXD1XhMiD8s1yG6ekIhquPvcino12Vi1lHRMQ+47YSMp0HlFwuUhM7IJoUPSMYGjHRxtp40+7+4Q1hMC7h6p2jcA0D9qgdkKeC5I+DpZ0SFbywSL3ZhBNKRiNqzi9pgFANAXMOPcLRO2VwkdXfphssKQz5JurOLj2FwyXqfi4/Bckgy3YpNZFQAA8WkNssJ/Q7wcSjfHq8d7NYiXY2eNsPhGa/BpX3PjKjwXpVrb57OCgt4CzU/VWj0RrdDI9SKl5oztn0sLmgyWaWygRERE7OBXsJ4QePloD4UcQfFx2FsZku80bC4ROvskHHMzZOIC6ZjA+UETegfNcDgZDJCDsLVFAaHpZR1x6ZszCwLH3RztZznsbbWX/Au343MY0yo+PwAAAABJRU5ErkJggg==
 [cults3d-url]: https://cults3d.com/de/modell-3d/gadget/360-autonomus-bluetooth-controlled-turningturntable
+
 [vscode-dev-shield]: https://img.shields.io/badge/preview%20in-vscode.dev-blue
-[vscode-dev-url]: https://open.vscode.dev/JoJos1220/TurningTurnTable
+[vscode-dev-url]: https://vscode.dev/github/JoJos1220/TurningTurnTable
 
 [license-url]:https://img.shields.io/github/license/JoJos1220/TurningTurnTable?style=flat-square
 [codacy-shield]: https://app.codacy.com/project/badge/Grade/6d7d1f912c0549589f19d4fdf015cab0
