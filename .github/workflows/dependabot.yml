@@ -15,6 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: run PlatformIO Dependabot
-        uses: peterus/platformio_dependabot@v1.2.0
+        uses: peterus/platformio_dependabot@ee459e446a090c4894b1354a3b85bc064797fd2b # Using latest Commit SHA for v1.2.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
